@@ -1,0 +1,486 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); 
+}
+.nav-link {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+
+
+
+color: #9893A3; 
+
+}
+
+.navbar-nav a:hover { color: rgb(0, 0, 0) !important; }
+
+
+.navbar-nav{
+    padding: 0px;
+gap: 36px;
+text-align: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+width: 418px;
+height: 32px;
+align-items: center;
+
+}
+.btn1{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    width: 42px;
+height: 19px;
+color: #6C63FF;
+align-items: center;
+padding: 16px 30px;
+gap: 10px;
+
+width: 102px;
+height: 51px;
+border: 1px solid #6C63FF;
+border-radius: 2px;
+border-color: #6C63FF;
+background-color:white;
+  
+}
+
+.btn2{
+    align-items: center;
+    padding: 16px 30px;
+    gap: 10px;
+    
+    width: 140px;
+    height: 51px;
+    background: #6C63FF;
+    border: 1px solid #6C63FF;
+border-radius: 2px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+color: #FFFFFF;
+
+
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+font-weight: 700;
+font-size: 86px;
+line-height: 88px;
+letter-spacing: -1px;
+color: #2F2E41;
+}
+
+p{
+    width: 489px;
+height: 102px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+color: #9893A3;
+
+}
+
+h2{
+    width: 400px;
+height: 128px;
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 64px;
+letter-spacing: -1px;
+color: #2F2E41;
+}
+
+.learn-more{
+    font-family: 'Open Sans', sans-serif;
+    width: 92px;
+height: 20px;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+letter-spacing: -1px;
+color: #2F2E41;
+text-decoration: none;
+
+
+}
+
+a:hover{
+color: rgb(0, 0, 0);
+opacity: 1;
+}
+
+h3{
+    width: 478.47px;
+height: 64px;
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 64px;
+letter-spacing: -1px;
+color: #2F2E41;
+
+}
+
+h4{
+    width: 136px;
+height: 26px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+color: #717082;
+margin-left: 70px;
+
+
+}
+
+h5{
+    width: 104px;
+height: 56px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 56px;
+text-align: center;
+letter-spacing: -2px;
+color: #2F2E41;
+margin-left: 90px;
+margin-top: 30px;
+
+
+
+}
+
+.btn3{
+    font-family: 'Open Sans', sans-serif;
+    width: 80px;
+height: 19px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+color: #6C63FF;
+text-align: center;
+align-items: center;
+
+width: 140px;
+height: 51px;
+border: 1px solid #6C63FF;
+border-radius: 2px;
+background-color: white;
+margin-left: 70px;
+margin-top: 30px;
+
+}
+
+
+
+.card-middle{
+    width: 363px !important;
+height: 502px !important;
+background: #6C63FF !important;
+border-radius: 2px !important;
+}
+
+.purpleheader{
+    width: 78px;
+height: 26px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 20px;
+margin-left: 110px;
+
+}
+
+h6{
+    width: 149px;
+height: 56px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 56px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 50px;
+margin-left: 25px;
+
+}
+
+.purpletext{
+    width: 184px;
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: rgba(255, 255, 255, 0.8);
+margin-left: 55px;
+margin-top: 20px;
+
+
+
+
+}
+
+.btn4{
+    padding: 16px 30px;
+gap: 10px;
+
+width: 186px;
+height: 54px;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 2px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+color: #6C63FF;
+margin-left: 60px;
+margin-top: 50px;
+
+}
+
+.lastcardheader{
+    width: 87px;
+height: 26px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #717082;
+text-align: center;
+margin-left: 110px;
+margin-top: 10px;
+
+}
+
+.lastcardprice{
+    width: 300px;
+height: 56px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 56px;
+color: #2F2E41;
+text-align: center;
+
+
+}
+
+.lastcardtext{
+    width: 198px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+color: #717082;
+
+
+}
+
+.btn5{
+    font-family: 'Open Sans', sans-serif;
+    width: 80px;
+height: 19px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+color: #6C63FF;
+text-align: center;
+align-items: center;
+
+width: 140px;
+height: 51px;
+border: 1px solid #6C63FF;
+border-radius: 2px;
+background-color: white;
+margin-left: 100px;
+margin-top: 30px;
+}
+
+.blogheader{
+    width: 384px;
+height: 64px;
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 64px;
+letter-spacing: -1px;
+color: #2F2E41;
+
+
+}
+
+.card-title{
+    width: 363.33px;
+height: 32px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: -1px;
+color: #2F2E41;
+
+
+
+}
+
+.card-text{
+    width: 363px;
+height: 78px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #9893A3;
+
+
+}
+
+.card-button{
+    width: 87px;
+height: 20px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+letter-spacing: -1px;
+color: #2F2E41;
+}
+
+.rectangle-text{
+    width: 346px;
+height: 128px;
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 56px;
+color: #FFFFFF;
+margin-top: 84px;
+margin-left: 84px;
+
+}
+
+.btn6{
+    
+
+
+width: 186px;
+height: 54px;
+background: #6C63FF;
+border: 1px solid #6C63FF;
+border-radius: 2px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+
+color: #FFFFFF;
+margin-top: 100px;
+
+
+
+
+
+}
+
+.footer{
+    width: 1440px;
+height: 598px;
+left: 0px;
+top: 4891.47px;
+
+background: rgba(236, 235, 255, 0.6);
+}
+
+.footerheader{
+    width: 69px;
+height: 24px;
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+color: #2F2E41;
+
+
+
+}
+
+.footer-text{
+  
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #717082;
+
+
+}
+.fixed-image {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+
+  .fixed-copyright{
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      width: 190px;
+height: 16px;
+      font-family: 'Open Sans', sans-serif;
+      font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+
+  }
